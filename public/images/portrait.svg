@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 700" fill="none" role="img" aria-label="Ilustrasi Nabila Mutiara Agung Saputri">
+  <ellipse cx="220" cy="672" rx="96" ry="14" fill="#f3d4dc"/>
+  <path d="M156 280c-6 90 8 210 28 270 6 16 28 22 36 22s30-6 36-22c20-60 34-180 28-270-14-24-110-24-128 0z" fill="#3a2832"/>
+  <path d="M148 400c-28 18-46 64-36 112 3 14 20 16 26 4 12-26 20-64 26-90 4-16-4-30-16-26z" fill="#f4c7b4"/>
+  <path d="M292 400c28 18 46 64 36 112-3 14-20 16-26 4-12-26-20-64-26-90-4-16 4-30 16-26z" fill="#f4c7b4"/>
+  <path d="M146 412c-16 22-18 64-4 100 3 8 14 6 16-2 6-22 8-56 4-78-2-12-10-22-16-20z" fill="#fff"/>
+  <path d="M294 412c16 22 18 64 4 100-3 8-14 6-16-2-6-22-8-56-4-78 2-12 10-22 16-20z" fill="#fff"/>
+  <path d="M150 390c18-52 42-74 70-74s52 22 70 74l26 210H124z" fill="#fff"/>
+  <path d="M184 352c8 36 12 78 8 128h56c-4-50 0-92 8-128-14 16-34 22-36 22s-22-6-36-22z" fill="#f4b4c3"/>
+  <path d="M198 348h44l-6 22h-32z" fill="#fff"/>
+  <circle cx="214" cy="468" r="4.5" fill="#f0c3cd"/>
+  <circle cx="214" cy="498" r="4.5" fill="#f0c3cd"/>
+  <circle cx="214" cy="528" r="4.5" fill="#f0c3cd"/>
+  <path d="M250 500h38c6 0 9 7 7 13l-7 22c-2 6-11 8-16 4l-22-14c-6-4-8-14-2-20 2-2 2-5 2-5z" fill="#fff" stroke="#f3d5dc" stroke-width="1.5"/>
+  <circle cx="278" cy="520" r="6" fill="#6eaaa0"/>
+  <path d="M196 300h48c6 0 10 10 8 20l-4 28h-56l-4-28c-2-10 2-20 8-20z" fill="#f4c7b4"/>
+  <ellipse cx="220" cy="228" rx="72" ry="78" fill="#f6ccba"/>
+  <ellipse cx="150" cy="236" rx="12" ry="16" fill="#f4c7b4"/>
+  <ellipse cx="290" cy="236" rx="12" ry="16" fill="#f4c7b4"/>
+  <path d="M152 214c10-62 46-100 86-96 46 4 74 48 70 100-12-34-36-52-66-50-32 2-62 20-78 40-6 8-12 8-12 6z" fill="#3a2832"/>
+  <path d="M158 248c-6 36 0 84 18 112 5 8 16 0 12-10-8-24-12-62-8-90 2-10-12-18-22-12z" fill="#3a2832"/>
+  <path d="M282 248c6 36 0 84-18 112-5 8-16 0-12-10 8-24 12-62 8-90-2-10 12-18 22-12z" fill="#3a2832"/>
+  <path d="M166 196c18-22 42-32 64-30 20 2 40 14 50 32-22-8-40 0-56 12-16 10-40 8-58-14z" fill="#3a2832"/>
+  <ellipse cx="194" cy="232" rx="7.5" ry="8.5" fill="#3a2832"/>
+  <ellipse cx="248" cy="232" rx="7.5" ry="8.5" fill="#3a2832"/>
+  <circle cx="196.5" cy="229.5" r="2.3" fill="#fff"/>
+  <circle cx="250.5" cy="229.5" r="2.3" fill="#fff"/>
+  <path d="M182 214c8-7 18-7 26 0" stroke="#6a4550" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M234 214c8-7 18-7 26 0" stroke="#6a4550" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M214 250c4 7 10 8 14 3" stroke="#e2aa98" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M196 268c10 14 32 16 46 4" stroke="#c4526a" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M208 268c7 6 18 6 24 0" fill="#fff"/>
+  <ellipse cx="174" cy="256" rx="11" ry="6" fill="#ee9aab" opacity=".5"/>
+  <ellipse cx="268" cy="256" rx="11" ry="6" fill="#ee9aab" opacity=".5"/>
+  <circle cx="150" cy="252" r="3.5" fill="#c4526a"/>
+  <g transform="translate(112 448)">
+    <circle cx="0" cy="0" r="22" fill="#e5f5f0" stroke="#6eaaa0" stroke-width="4"/>
+    <circle cx="0" cy="0" r="11" fill="#fff" opacity=".8"/>
+    <path d="M15 16l24 40" stroke="#d7b4bc" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="22" cy="24" r="9" fill="#f4c7b4"/>
+  </g>
+  <circle cx="312" cy="478" r="13" fill="#f4c7b4"/>
+</svg>
